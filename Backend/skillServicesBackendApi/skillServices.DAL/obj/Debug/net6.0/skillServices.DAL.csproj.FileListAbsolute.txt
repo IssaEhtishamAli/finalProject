@@ -1,0 +1,17 @@
+E:\BootcampAssiginments\FinalProject\Backend\skillServicesBackendApi\skillServices.DAL\bin\Debug\net6.0\skillServices.DAL.deps.json
+E:\BootcampAssiginments\FinalProject\Backend\skillServicesBackendApi\skillServices.DAL\bin\Debug\net6.0\skillServices.DAL.runtimeconfig.json
+E:\BootcampAssiginments\FinalProject\Backend\skillServicesBackendApi\skillServices.DAL\bin\Debug\net6.0\skillServices.DAL.dll
+E:\BootcampAssiginments\FinalProject\Backend\skillServicesBackendApi\skillServices.DAL\bin\Debug\net6.0\skillServices.DAL.pdb
+E:\BootcampAssiginments\FinalProject\Backend\skillServicesBackendApi\skillServices.DAL\bin\Debug\net6.0\skillServices.BOL.dll
+E:\BootcampAssiginments\FinalProject\Backend\skillServicesBackendApi\skillServices.DAL\bin\Debug\net6.0\skillServices.BOL.pdb
+E:\BootcampAssiginments\FinalProject\Backend\skillServicesBackendApi\skillServices.DAL\obj\Debug\net6.0\skillServices.DAL.csproj.AssemblyReference.cache
+E:\BootcampAssiginments\FinalProject\Backend\skillServicesBackendApi\skillServices.DAL\obj\Debug\net6.0\skillServices.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\BootcampAssiginments\FinalProject\Backend\skillServicesBackendApi\skillServices.DAL\obj\Debug\net6.0\skillServices.DAL.AssemblyInfoInputs.cache
+E:\BootcampAssiginments\FinalProject\Backend\skillServicesBackendApi\skillServices.DAL\obj\Debug\net6.0\skillServices.DAL.AssemblyInfo.cs
+E:\BootcampAssiginments\FinalProject\Backend\skillServicesBackendApi\skillServices.DAL\obj\Debug\net6.0\skillServices.DAL.csproj.CoreCompileInputs.cache
+E:\BootcampAssiginments\FinalProject\Backend\skillServicesBackendApi\skillServices.DAL\obj\Debug\net6.0\skillServices.DAL.csproj.CopyComplete
+E:\BootcampAssiginments\FinalProject\Backend\skillServicesBackendApi\skillServices.DAL\obj\Debug\net6.0\skillServices.DAL.dll
+E:\BootcampAssiginments\FinalProject\Backend\skillServicesBackendApi\skillServices.DAL\obj\Debug\net6.0\refint\skillServices.DAL.dll
+E:\BootcampAssiginments\FinalProject\Backend\skillServicesBackendApi\skillServices.DAL\obj\Debug\net6.0\skillServices.DAL.pdb
+E:\BootcampAssiginments\FinalProject\Backend\skillServicesBackendApi\skillServices.DAL\obj\Debug\net6.0\skillServices.DAL.genruntimeconfig.cache
+E:\BootcampAssiginments\FinalProject\Backend\skillServicesBackendApi\skillServices.DAL\obj\Debug\net6.0\ref\skillServices.DAL.dll

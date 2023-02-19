@@ -1,0 +1,12 @@
+E:\BootcampAssiginments\FinalProject\Backend\skillServicesBackendApi\skillServices.BOL\bin\Debug\net6.0\skillServices.BOL.deps.json
+E:\BootcampAssiginments\FinalProject\Backend\skillServicesBackendApi\skillServices.BOL\bin\Debug\net6.0\skillServices.BOL.dll
+E:\BootcampAssiginments\FinalProject\Backend\skillServicesBackendApi\skillServices.BOL\bin\Debug\net6.0\skillServices.BOL.pdb
+E:\BootcampAssiginments\FinalProject\Backend\skillServicesBackendApi\skillServices.BOL\obj\Debug\net6.0\skillServices.BOL.csproj.AssemblyReference.cache
+E:\BootcampAssiginments\FinalProject\Backend\skillServicesBackendApi\skillServices.BOL\obj\Debug\net6.0\skillServices.BOL.GeneratedMSBuildEditorConfig.editorconfig
+E:\BootcampAssiginments\FinalProject\Backend\skillServicesBackendApi\skillServices.BOL\obj\Debug\net6.0\skillServices.BOL.AssemblyInfoInputs.cache
+E:\BootcampAssiginments\FinalProject\Backend\skillServicesBackendApi\skillServices.BOL\obj\Debug\net6.0\skillServices.BOL.AssemblyInfo.cs
+E:\BootcampAssiginments\FinalProject\Backend\skillServicesBackendApi\skillServices.BOL\obj\Debug\net6.0\skillServices.BOL.csproj.CoreCompileInputs.cache
+E:\BootcampAssiginments\FinalProject\Backend\skillServicesBackendApi\skillServices.BOL\obj\Debug\net6.0\skillServices.BOL.dll
+E:\BootcampAssiginments\FinalProject\Backend\skillServicesBackendApi\skillServices.BOL\obj\Debug\net6.0\refint\skillServices.BOL.dll
+E:\BootcampAssiginments\FinalProject\Backend\skillServicesBackendApi\skillServices.BOL\obj\Debug\net6.0\skillServices.BOL.pdb
+E:\BootcampAssiginments\FinalProject\Backend\skillServicesBackendApi\skillServices.BOL\obj\Debug\net6.0\ref\skillServices.BOL.dll
